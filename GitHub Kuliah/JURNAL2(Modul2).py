@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 muatan = int(input("Masukan berat muatan (Ton): "))
 penumpang = int(input("Masukan jumlah penumpang: "))
 
@@ -9,3 +11,5 @@ elif penumpang == 0 and muatan <= 20:
     print("Kendarann yang sesuai: Truk")
 else:
     print("Tidak ada kendaraan yang sesuai")
+
+# Tb. Alta Ulil Abshor
