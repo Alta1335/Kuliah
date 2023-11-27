@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 komposisi_nilai = [10/100, 15/100, 10/100, 15/100, 15/100, 15/100, 20/100]
 q1, q2, q3, t1, t2, p1, p2 = komposisi_nilai
 nilai_mutu = [80.01, 70.01, 65.01, 60.01, 50.01, 40.01, 0]
@@ -33,3 +35,5 @@ elif nilai_akhir >= D:
     print("Nilai akhir mu adalah: ", nilai_akhir, "dengan Nilai Mutu: D")
 elif nilai_akhir >= E:
     print("Nilai akhir mu adalah: ", nilai_akhir, "dengan Nilai Mutu: E")
+
+# Tb. Alta Ulil Abshor
