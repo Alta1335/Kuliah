@@ -1,5 +1,4 @@
-# NIM: 102022300301
-# Nama: Tb. Alta Ulil Abshor
+# Tb. Alta Ulil Abshor
 
 print("=== Tugas 1 - Program Pembelian ===")
 # Fumgsi Pembayaran
@@ -245,3 +244,5 @@ def login_0301():
 
 
 login_0301()
+
+# Tb. Alta Ulil Abshor
