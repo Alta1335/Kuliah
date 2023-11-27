@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 print("=== Tugas Pendahuluan No.1 ===")
 """1. Matthew adalah seorang kakak yang baik dan sedang membantu adiknya yang
 berada di kelas 2 SD untuk memahami konsep bilangan ganjil dan genap. Dia
@@ -48,3 +50,5 @@ elif nilai >= 0 and nilai <= 29:
     print("E")
 else:
     print("NILAI DILUAR JANGKAUAN")
+
+# Tb. Alta Ulil Abshor
