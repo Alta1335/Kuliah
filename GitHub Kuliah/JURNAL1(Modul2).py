@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 total_belanja = int(input("Masukan total belanjaan Anda: Rp."))
 program_loyalitas = input(
     "Apakah Anda adalah anggota program loyalitas? (ya/tidak): ")
@@ -32,3 +34,5 @@ elif total_belanja >= 200000 and total_belanja < 300000:
         diskon = total_belanja * 0.10
         akhir = total_belanja - diskon
         print(f"Total belanjaan setelah diskon: Rp.{akhir}")
+
+# Tb. Alta Ulil Abshor
