@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 berat = float(input("Masukan berat badan anda (dalam KG): "))
 tinggi = float(input("Masukan tinggi badan anda (dalam M): "))
 
@@ -14,3 +16,5 @@ elif hasil >= 25 and hasil <= 27:
     print("Anda dalam kelompok Gemuk dengan kategori kelebihan berat badan tingkat rendah")
 elif hasil > 27:
     print("Anda dalam kelompok Gemuk dengan kategori kelebihan be1rat badan tingkat berat")
+
+# Tb. Alta Ulil Abshor
