@@ -1,3 +1,5 @@
+# Tb. Alta Ulil Abshor
+
 # Tugas Pendahuluan - No. 1
 """Pak Dengklek mempunyai ikan cupang sebanyak N. Ia ingin
 membagikan koleksi ikan cupangnya kepada cucu-cucunya yang
@@ -45,3 +47,5 @@ Kelas = input("Kelas : ")
 rata = ((Tugas + Quiz + UTS + UAS) / 4)
 print(
     f"Nilai MK Pengatar Pemrograman dan Logika milik {Nama} dengan NIM {NIM} Kelas {Kelas} adalah: {rata}")
+
+# Tb. Alta Ulil Abshor
