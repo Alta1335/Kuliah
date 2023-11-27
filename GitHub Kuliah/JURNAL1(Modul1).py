@@ -1,3 +1,4 @@
+# Tb. Alta Ulil Abshor
 # Jurnal 1
 """Udin berencana untuk mendaftarkan diri sebagai peserta pound fit. Panitia
 penyelenggara acara pound fit tersebut mengharuskan Udin untuk
@@ -28,3 +29,5 @@ print(type(umur))
 print(type(jenis_kelamin))
 print(type(tinggi_badan))
 print(type(nomor_telepon))
+
+# Tb. Alta Ulil Abshor
